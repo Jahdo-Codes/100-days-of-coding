@@ -16,6 +16,9 @@ I'm committing to coding **at least 1 hour every day for 100 days**, following t
 | 5   | Password generator  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Praticed Conditional logic, randomization |
 | 6   | Escaping the maze  | [Reeborg's World](https://reeborg.cs20.ca/?lang=en&mode=python&menu=%2Fworlds%2Fmenus%2Fsk_menu.json&name=Maze&url=%2Fworlds%2Ftutorial_en%2Fmaze1.json)| Practiced functions, code blocks, while loops, and logical thinking |
 | 7   | Hangman  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced cleaning data, building game logic, managing game state, and creating a user-friendly experience |
+| 8   | Hangman  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced cleaning data, building game logic, managing game state, and creating a user-friendly experience |
+| 9   | Hangman  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced cleaning data, building game logic, managing game state, and creating a user-friendly experience |
+| 10   | Hangman  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced cleaning data, building game logic, managing game state, and creating a user-friendly experience |
 
 
 
