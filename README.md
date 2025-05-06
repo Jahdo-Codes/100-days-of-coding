@@ -20,8 +20,8 @@ I'm committing to coding **at least 1 hour every day for 100 days**, following t
 | 9   | Secret Auction  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced Dictionary manipulation |
 | 10   | Simple Calculator  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced Recursion |
 | 11   | Black Jack  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced function decomposition |
-| 12   | Guessing Game  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced  |
-| 14   | Higher Or Lower  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced |
+| 12   | Guessing Game  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced loops and conditional statements |
+| 14   | Higher Or Lower  | [100-days-of-coding](https://github.com/Jahdo-Codes/100-days-of-coding/blob/main/Days/Day%201%20to%2014.ipynb) | Practiced functions, loops and conditional statements |
 
 
 
